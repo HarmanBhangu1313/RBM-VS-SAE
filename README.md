@@ -101,9 +101,6 @@ Comparing them highlights the trade-off between **probabilistic modeling** and *
 
 ---
 
-### One-Line Intuition (Interview-Ready)
-
-**“RBMs learn data distributions probabilistically, while autoencoders learn compact representations by reconstructing inputs deterministically.”**
 
 ##  Tech Stack  
 - Python 3.10  
